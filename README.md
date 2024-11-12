@@ -1,5 +1,5 @@
 # ToDesktop Landing Page
 
-Tech Stack: **Tailwind**
+Tech Stack: **Tailwind**,
             **React**
 
