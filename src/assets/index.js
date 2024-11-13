@@ -27,9 +27,30 @@ import Voiceflow from "./Voiceflow.avif";
 import Webstudio from "./Webstudio.avif";
 import bgworks from "./bgworks.avif"
 import ui from "./ui-window.avif"
+import step1 from "./step1.svg";
+import notifications from "./notifications.avif"
+import updates from "./auto-updates.avif";
+import apis from "./apis.avif";
+import plugins from "./plugins.avif";
+import customize from "./customize.avif";
+import installers from "./installers.avif";
+import StoryClickUp from "./StoryClickUp.webp"
+import ClickUpLogo from "./ClickUp-Logo.svg";
+import zeb from "./zeb.avif";
+import Rick from "./Rick.avif";
+import Max from "./Max.avif";
+import Pouya from "./Pouya.avif";
+import screenshot from "./screenshot.webp"
 
 
-export {logo, electron, tabs, arrow, bgworks, ui}
+
+export {logo, electron, tabs, 
+    arrow, bgworks, ui, step1, 
+    notifications, updates, apis, 
+    plugins, customize, installers,
+    ClickUpLogo, StoryClickUp, zeb, 
+    Rise, Rick, Max, Pouya, Basedash, LifeAt,
+     screenshot}
 
 
 export const desktopApps1 = [
